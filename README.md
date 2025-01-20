@@ -1,2 +1,2 @@
 # Crime-Rate-Predictor
-This is Crime rate prediction project . In this project crime rate is predicted using ML models
+This is Crime Rate Predictor project which uses machine learning to analyze historical crime data and predict future crime trends. It incorporates techniques like regression or classification for forecasting crime rates based on factors like location, time, and socio-economic indicators. The project demonstrates data preprocessing, model training, and visualization of predictions.
